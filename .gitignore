@@ -55,3 +55,6 @@ venv
 */data/*
 */.ipynb_checkpoints
 *.code-workspace
+*.ipynb_checkpoints
+*.ipython
+*.local
